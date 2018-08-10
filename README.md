@@ -1,2 +1,2 @@
 # CryptoTinkering
-Messing around with simple cryptography and hopefully automated cryptanalysis 
+Messing around with simple cryptography.
